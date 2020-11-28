@@ -1,8 +1,26 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "avioes.h"
 
-int main()
-{
-    printf("Hello world!\n");
-    return 0;
+int main(){
+    Fila* fila;
+
+    fila = criarFila();
+
+    inserirFila(fila);
+
+    inserirFila(fila);
+
+    inserirFila(fila);
+
+    inserirFila(fila);
+
+    imprimeFila(fila);
+
+    getch();
+    printf("Removendo Lista.................\n\n");
+    removerFila(fila);
+
+    printf("\n\n\t\t<< Lista Atualizada >>\n\n");
+    imprimeFila(fila);
 }
