@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<locale.h>
 
-#include"Exercicio1.h"
+#include"Exercicio24.h"
 #define MAX 6
 
 int main(){
