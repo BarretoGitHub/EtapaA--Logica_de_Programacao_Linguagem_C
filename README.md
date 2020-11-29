@@ -1,4 +1,4 @@
-# Etapa-A---Logica-de-Programa-o---Linguagem-C
+
 Etapa A - Logica de Programação - Linguagem C
 Objetivo: Demostrar conhecimentos intermediário em lógica de programação e estrura de dados, utlizando a linguagem C 
 Habilidades desenvolvidas: 
