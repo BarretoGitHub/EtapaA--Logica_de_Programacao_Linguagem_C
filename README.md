@@ -11,3 +11,9 @@ Habilidades desenvolvidas:
 			- Buscas Binárias
 			- Ordenação: Bubble Sort,Selection Sort,Insertion Sort,Merge Sort
 			- IDE: Code::Blocks
+			
+
+Entrevista -  Entelgy Brasil 2020: Venha ser um Entelger
+
+Candidato: Wesley Gabriel Barreto
+
