@@ -1,6 +1,6 @@
-
-Etapa A - Logica de Programação - Linguagem C
+# Etapa A - Logica de Programação - Linguagem C
 Objetivo: Demostrar conhecimentos intermediário em lógica de programação e estrura de dados, utlizando a linguagem C 
+
 Habilidades desenvolvidas: 
 			- Lógica de Programação
 			- Estrutura de Repetição
@@ -11,6 +11,3 @@ Habilidades desenvolvidas:
 			- Buscas Binárias
 			- Ordenação: Bubble Sort,Selection Sort,Insertion Sort,Merge Sort
 			- IDE: Code::Blocks
- 
-Entrevista -  Entelgy Brasil 2020: Venha ser um Entelger
-Candidato: Wesley Gabriel Barreto
