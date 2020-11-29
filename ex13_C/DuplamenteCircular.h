@@ -1,0 +1,5 @@
+typedef struct lista *Lista;
+
+
+
+
