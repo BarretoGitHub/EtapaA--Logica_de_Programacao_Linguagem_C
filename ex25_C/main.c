@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include"Exercicio3.h"
+#include"Exercicio25.h"
 #define MAX 10
 
  main(){
