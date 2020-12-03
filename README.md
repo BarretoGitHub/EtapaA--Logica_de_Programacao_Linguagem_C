@@ -13,7 +13,6 @@ Habilidades desenvolvidas:
 			- IDE: Code::Blocks
 			
 
-Entrevista: Entelgy Brasil 2020: Venha ser um Entelgeer
 
 Candidato: Wesley Gabriel Barreto
 
